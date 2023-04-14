@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**dimasadyaksa/dimasadyaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dimas, Software Engineer that passioned in backend engineering and IoT and accidentally started to love the world of open-source.
 
-Here are some ideas to get you started:
+### Currently contributing to
+1. [goval](https://github.com/pkg-id/goval) - A programmatic and composable validation library for Go.
+2. [gomap](https://github.com/dimasadyaksa/gomap) - A map data type operation helper for Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact me
+<p>
+  <a href="https://www.linkedin.com/in/dimasadyaksa/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a> &nbsp; 
+</p>
+
+
+### Visitor
+<img src="https://profile-counter.glitch.me/dimasadyaksa/count.svg" />
