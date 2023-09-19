@@ -5,7 +5,7 @@ I'm Dimas, a Software Engineer passionate about backend engineering and internet
 ### Currently contributing to
 1. [goval](https://github.com/pkg-id/goval) - A programmatic and composable validation library for Go.
 2. [gomap](https://github.com/dimasadyaksa/gomap) - A map data type operation helper for Go.
-3. [rotator](https://github.com/dimasadyaksa/rotator) - A package for rotating container operations that enables cyclic traversal of element lists and provides goroutine-safe key-based access in Go.
+3. [rotator](https://github.com/dimasadyaksa/rotator) - A Go package for rotating containers, designed for cyclic traversal and goroutine-safe access.
 
 
 ### Contact me
